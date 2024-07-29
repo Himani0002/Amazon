@@ -58,7 +58,7 @@ Follow these steps to get the project up and running on your local machine.
 
 ## 📸 Screenshots
 
-![Home Page](https://via.placeholder.com/800x400.png?text=Home+Page)
+![Home Page](https://66a77680ee416621d0c6e2cf--lambent-cheesecake-d35721.netlify.app/)
 *Browse a wide range of products!*
 
 ![Cart](https://via.placeholder.com/800x400.png?text=Cart)
