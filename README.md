@@ -1,5 +1,5 @@
-🛒 Amazon Clone
-Welcome to the Amazon Clone project! This is a simplified version of the popular e-commerce website, Amazon. Enjoy exploring! 🌟
+🛒 Amazon HTML and CSS Clone
+Welcome to the Amazon HTML and CSS Clone project! This project is a simplified version of the popular e-commerce website, Amazon. Enjoy exploring and customizing it! 🌟
 
 📦 Features
 Home Page 🏠
@@ -41,7 +41,8 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 📧 Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Email: your-himanigohil0002@gmail.com
+Email: your-himanigohil@0002gmail.com
 GitHub: your-himani0002
-web : https://66a77680ee416621d0c6e2cf--lambent-cheesecake-d35721.netlify.app/
+web: https://66a77680ee416621d0c6e2cf--lambent-cheesecake-d35721.netlify.app/
 Happy coding! 💻✨
+
