@@ -30,7 +30,7 @@ CSS - For styling and layout
 
 <h1>📸 Screenshots </h1>
 
-![Alt text](C:\Users\Dell\Pictures\Screenshots)
+![Alt text](https://media.geeksforgeeks.org/wp-content/uploads/20240326162935/Preview.jpg)
 
 
 Welcome to our Amazon Clone home page!
