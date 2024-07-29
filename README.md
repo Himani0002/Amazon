@@ -30,7 +30,8 @@ CSS - For styling and layout
 
 <h1>📸 Screenshots </h1>
 
-<img src="C:\Users\Dell\Pictures\Screenshots">
+![Alt text](C:\Users\Dell\Pictures\Screenshots)
+
 
 Welcome to our Amazon Clone home page!
 
